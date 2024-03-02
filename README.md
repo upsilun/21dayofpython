@@ -6,12 +6,7 @@
 
 - **#01/:** Introduction to Python Basics
   - `inputs.py`
-  - `exercise_2.py`
-  - ...
-
-- **day_2/:** Control Flow and Functions
-  - `exercise_3.py`
-  - `exercise_4.py`
+  - `loops.py`
   - ...
 
 Continue the journey by following the daily schedule for the next 21 days.
