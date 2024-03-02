@@ -1,4 +1,4 @@
-# 21 Days of Python
+# 21 Days of Python 🐍
 
 "21 Days of Python" challenge! This repository is for my personal learning journey in Python. 🐍
 
