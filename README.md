@@ -7,6 +7,10 @@
 - **#01/:** Introduction to Python Basics
   - `inputs.py`
   - `loops.py`
+
+- **#02/:** Introduction to Python Data Types
+  - `variables.py`
+  - `loops.py`
   - ...
 
 Continue the journey by following the daily schedule for the next 21 days.
