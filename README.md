@@ -10,10 +10,10 @@
 
 - **#02/:** Introduction to Python Data Types
   - `variables.py`
-  - `loops.py`
+  - `arrays.py`
   - ...
 
-Continue the journey by following the daily schedule for the next 21 days.
+Continue the journey by following the daily schedule for the next 21 day.
 
 ## Resources
 
